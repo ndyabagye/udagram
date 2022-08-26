@@ -1,0 +1,15 @@
+{
+  "name": "udagram",
+  "version": "1.0.0",
+  "description": "Udacity Udagram AWS APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndyabagye/udagram.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
